@@ -1,4 +1,4 @@
-
+```python
 // Render Flags
 usage: Render <options> <filename>
 where <filename> is a Maya ASCII or a Maya Binary file.
@@ -183,3 +183,4 @@ tileHeight            -th <int>        force the height of the tiles.  Valid val
                       -cont            allow renderer to continue when it hits errors
 
                       -keepPreImage    keep the renderings prior to post-process around
+```
